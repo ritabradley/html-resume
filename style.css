@@ -5,8 +5,8 @@
 }
 
 body {
-    background-color: #faf9f9;
-    color: #555b6e;
+    background-color: #735d78;
+    color: #f7d1cd;
     font-family: 'Catamaran', sans-serif;
     font-weight: 400;
     font-size: 18px;
@@ -19,12 +19,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    color: #89b0ae;
+    color: #b392ac;
     font-size: 48px;
 }
 
+h3 {
+    color: #d1b3c4;
+}
+
 a {
-    color: #bee3db;
+    color: #d1b3c4;
     text-decoration: none;
     font-weight: 700;
 }
